@@ -1,0 +1,10 @@
+{
+  "doctor": {
+    "name": "Dr. Asmaa",
+    "specialization": "General Medicine",
+    "experience": "10 Years",
+    "location": "Cairo, Egypt",
+    "phone": "+20 100 000 0000",
+    "email": "drasmaa@gmail.com"
+  }
+}
